@@ -22,3 +22,13 @@ body{
     height: 256px;
     margin: 14px;
 }
+.player-info{
+    padding-left: 14px;
+    padding-right: 14px;
+}
+.player-name{
+    color: #18191F;
+    font-size: 28px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
