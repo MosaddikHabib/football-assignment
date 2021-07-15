@@ -1,5 +1,18 @@
+/*-------------- google font imported ------------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
+
+
+/*--------------------- common style ---------------------------------- */
 body{
     font-family: 'Poppins', sans-serif;
+}
+
+
+/* main section  */
+.players{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 15px;
+    grid-row-gap: 27px;
 }
